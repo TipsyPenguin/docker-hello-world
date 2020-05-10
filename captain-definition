@@ -1,4 +1,5 @@
  {
   "schemaVersion": 2,
+  "imageName": "knavi/site",
   "dockerfilePath": "./Dockerfile"
  }
